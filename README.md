@@ -3,4 +3,4 @@
 
 htmlファイルに名前を入力
 
-<a>https://www.hiita.work/hello.html</a>
+<a>https://hiita.work/hello.html</a>
